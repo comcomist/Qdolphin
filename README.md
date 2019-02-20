@@ -1,6 +1,8 @@
 # Qdolphin
 a qml browser developed in qt framework for pwa ux (progressive web app user experience), with its currently QtWebEngine browser configured by qml granted under the [Humanitarian Agpl License](http://namzezam.wikidot.com/humanitarian-agpl-license).
 
+Before running the Dolphin please extract the qrc file into the build directory.
+
 Welcome to the Qdolphin project! 
 
 Qdolphin is a qml browser for surfing cleverly in our world by using only one app, while having full separation between the demands for use of your resources comming from the local or remotely (by some algorithms running from the outside while serving the others), where its Web browser is only in a non root branch of the tree of apps it runs and it includs the encryption feature of 3fish1kbit in ctr mode by contextaul kdf2 key, producing 4k files each having different strong key strensening the weakest ring of any security chain being the human passcode.
