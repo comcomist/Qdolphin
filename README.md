@@ -1,7 +1,7 @@
 # Qdolphin
 a qml browser developed in qt framework for pwa ux (progressive web app user experience), with its currently QtWebEngine browser configured by qml granted under the [Humanitarian Agpl License](http://namzezam.wikidot.com/humanitarian-agpl-license).
 
-*Before running the Dolphin please extract the qrc file into the build directory.*
+*Before running the Dolphin please extract the [qrc](https://github.com/comcomist/Qdolphin/blob/master/qrc.206.zip?raw=true) file into the build directory.*
 
 ### Welcome to the Qdolphin project! 
 
