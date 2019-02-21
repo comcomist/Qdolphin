@@ -12,7 +12,8 @@ int main(int argc, char **argv) {
       adddbpath(&appEngine,"LocalData/db") )
          QSqlDatabase  db= addddb("LocalData/db/myDb.db");
     else return 1;
- appEngine.load(QUrl("file:qrc/LocalObj.qml"));
+// appEngine.load(QUrl("file:qrc/LocalObj.qml"));
+ appEngine.load( QUrl::fromLocalFile("qrc/LocalObj.qml"));
  QMetaObject::invokeMethod(appEngine.rootObjects().first(),"webLoad",//"load",
                            Q_ARG(QVariant, QStringLiteral("")));
  return app.exec();
