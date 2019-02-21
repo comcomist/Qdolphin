@@ -1,4 +1,4 @@
-# Qdolphin
+# ![Qdolphin](https://github.com/comcomist/Qdolphin/blob/master/Qsolphin.2019-02-16.19-39.gif)
 a qml browser developed in [qt framework](https://www.qt.io/download-qt-installer) for pwa ux (progressive web app user experience), with its currently QtWebEngine browser configured by qml granted under the [Humanitarian Agpl License](http://namzezam.wikidot.com/humanitarian-agpl-license).
 
 *Before running the Dolphin please extract the [qrc](https://github.com/comcomist/Qdolphin/blob/master/qrc.206.zip?raw=true) file into the build directory.*
