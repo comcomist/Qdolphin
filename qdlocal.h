@@ -468,6 +468,9 @@ void clearThis(){//to complete..
 }
 Q_SLOT QString getLatestSbj(QString sbj="sbj"){
  QDir dir(sbj);
+  if (!dir.exists())
+ {     qDebug()<<"Cannot find the directory "+sbj;
+return "";}   
  dir.setFilter(QDir::Files);
  dir.setSorting(QDir::Time);
  return dir.entryList()[0];
