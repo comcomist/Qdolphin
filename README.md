@@ -12,7 +12,7 @@ Qdolphin is a qml browser for surfing cleverly in our world by using only one ap
 Qdolphin is as in Q DO Love Peace and Happiness IN.
 
 
-**The concept** is simple:  While starting from the client and not the server, when you develop for the users you care for, encrypt first in the user's devices and seprat the resuosers demand comming from local or the remote. **Use Case: [Community Reflection by Rss and Calendars](http://buildup1.wikidot.com/)** It is made under the Humanitarian Agpl License by the Postnational Solutions Makers and is provided as is without warranty of any kind for letting you regain some control over the necessary privacy issues attacking us all.
+**The concept** is simple:  While starting from the client and not the server, when you develop for the users you care for, encrypt first in the user's devices and seprat the resuosers demands comming from local or the remote. See this **[use Case](http://buildup1.wikidot.com/)** It is made under the Humanitarian Agpl License by the **[Postnational Solutions Makers](http://comcomist.wikidot.com/)** and is provided as is without warranty of any kind for letting you regain some control over the necessary privacy issues attacking us all.
 
 **Why is this important?** Without privacy there is no safe place for personality growth requiring natural learning and healing and hence such lack of privacy causes reduction in relationships and growth in hostility between groups defined by any kind of identity politics!
 
