@@ -11,7 +11,7 @@ Qdolphin is a qml browser for surfing cleverly in our world by using only one ap
 
 Qdolphin is as in Q DO Love Peace and Happiness IN.
 
-Use Case  [Community Reflection by Rss and Calendars](http://buildup1.wikidot.com/)
+Use Case: [Community Reflection by Rss and Calendars](http://buildup1.wikidot.com/)
 
 It is made under the Humanitarian Agpl License by the Postnational Solutions Makers and is provided as is without warranty of any kind for letting you regain some control over the necessary privacy issues attacking us all.
 
