@@ -10,6 +10,7 @@ Qdolphin is a qml browser developed in [qt framework](https://www.qt.io/download
 Qdolphin is a qml browser for surfing cleverly in our world by using only one app, while having full separation between the demands for use of your resources comming from the local or remotely (by some algorithms running from the outside while serving the others), where its Web browser is only in a non root branch of the tree of apps it runs and it includs the encryption feature of 3fish1kbit in ctr mode by contextaul kdf2 key, producing 4k files each having different strong key strensening the weakest ring of any security chain being the human passcode.
 
 Qdolphin is as in Q DO Love Peace and Happiness IN.
+
 Use Case  [Community Reflection by Rss and Calendars](http://buildup1.wikidot.com/)
 
 It is made under the Humanitarian Agpl License by the Postnational Solutions Makers and is provided as is without warranty of any kind for letting you regain some control over the necessary privacy issues attacking us all.
