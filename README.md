@@ -3,16 +3,16 @@
 Qdolphin is a qml browser developed in [qt framework](https://www.qt.io/download-qt-installer) for pwa ux (progressive web app user experience), with its currently QtWebEngine browser configured by qml and granted under the [Humanitarian Agpl License](http://namzezam.wikidot.com/humanitarian-agpl-license).
 
 *Before running the Dolphin please extract the [qrc](https://github.com/comcomist/Qdolphin/blob/master/qrc.206.zip?raw=true) file into the build directory [binary 64 linux](https://github.com/comcomist/Qdolphin/blob/master/Qdolphin?raw=true)
-.* (use this for [andorid](https://doc.qt.io/qt-5/android-getting-started.html))
+.* (use this for [android](https://doc.qt.io/qt-5/android-getting-started.html))
 
 ### Welcome to the Qdolphin project! 
 
-Qdolphin is a qml browser for surfing cleverly in our world by using only one app, while having full separation between the demands for use of your resources comming from the local or remotely (by some algorithms running from the outside while serving the others), where its Web browser is only in a non root branch of the tree of apps it runs and it includs the encryption feature of 3fish1kbit in ctr mode by contextaul kdf2 key, producing 4k files each having different strong key strensening the weakest ring of any security chain being the human passcode.
+Qdolphin is a qml browser for surfing cleverly in our world by using only one app, while having full separation between the demands for use of your resources coming from the local or remotely (by some algorithms running from the outside while serving the others), where its Web browser is only in a non root branch of the tree of apps it runs and it includes the encryption feature of 3fish1kbit in ctr mode by contextaul kdf2 key, producing 4k files each having different strong key strensening the weakest ring of any security chain being the human passcode.
 
 Qdolphin is as in Q DO Love Peace and Happiness IN.
 
 
-**The concept** is simple:  While starting from the client and not the server, when you develop for the users you care for, encrypt first in the user's devices and seprat the resuosers demands comming from local or the remote. See this **[use Case](http://buildup1.wikidot.com/)** It is made under the Humanitarian Agpl License by the **[Postnational Solutions Makers](http://comcomist.wikidot.com/)** and is provided as is without warranty of any kind for letting you regain some control over the necessary privacy issues attacking us all.
+**The concept** is simple:  While starting from the client and not the server, when you develop for the users you care for, encrypt first in the user's devices and separate the resuosers demands coming from local or the remote. See this **[use Case](http://buildup1.wikidot.com/)** It is made under the Humanitarian Agpl License by the **[Postnational Solutions Makers](http://comcomist.wikidot.com/)** and is provided as is without warranty of any kind for letting you regain some control over the necessary privacy issues attacking us all.
 
 **Why is this important?** Without privacy there is no safe place for personality growth requiring natural learning and healing and hence such lack of privacy causes reduction in relationships and growth in hostility between groups defined by any kind of identity politics!
 
