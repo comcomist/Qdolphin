@@ -1,6 +1,6 @@
-# Qdolphin
+# Qdolphin - Prevent Data Abuse Smartly by the Qdolphin Blurring (qb)
 ![Qdolphin](Qsolphin.2019-02-16.19-39.gif)
-## Prevent Data Abuse Smartly by the Qdolphin Blurring (qb)
+## the Qdolphin Blurring (qb)
 Qdolphin is a [qml](https://en.wikipedia.org/wiki/QML) browser developed in [qt framework](https://www.qt.io/download-qt-installer) and improving privacy and security issues in [progressive web app](https://en.wikipedia.org/wiki/Progressive_web_applications#Characteristics) [user experience](https://en.wikipedia.org/wiki/User_experience) (pwa ux), with its currently [QtWebEngine](https://wiki.qt.io/QtWebEngine) browser configured by qml and granted under the [Humanitarian Agpl License](http://namzezam.wikidot.com/humanitarian-agpl-license).
 
 *Before running the Dolphin please extract the [qrc](https://github.com/comcomist/Qdolphin/blob/master/qrc.206.zip?raw=true) file into the build directory [binary 64 linux](https://github.com/comcomist/Qdolphin/blob/master/Qdolphin?raw=true)
