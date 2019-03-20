@@ -1,9 +1,9 @@
 # Prevent Data Abuse Smartly with the Qdolphin Blurring
 ![Qdolphin](Qsolphin.2019-02-16.19-39.gif)
 ## The Qdolphin Blurring (qb)
-Qdolphin is a [qml](https://en.wikipedia.org/wiki/QML) browser developed in [qt framework](https://www.qt.io/download-qt-installer) and improving privacy and security issues in [progressive web app](https://en.wikipedia.org/wiki/Progressive_web_applications#Characteristics) [user experience](https://en.wikipedia.org/wiki/User_experience) (pwa ux), with its currently [QtWebEngine](https://wiki.qt.io/QtWebEngine) browser configured by qml. It is granted only under the [Humanitarian Agpl License](http://namzezam.wikidot.com/humanitarian-agpl-license).
+Qdolphin [29MB](https://github.com/comcomist/Qdolphin/blob/master/Qdolphin.00.zip?raw=true) is a [qml](https://en.wikipedia.org/wiki/QML) browser developed in [qt framework](https://www.qt.io/download-qt-installer) and improving privacy and security issues in [progressive web app](https://en.wikipedia.org/wiki/Progressive_web_applications#Characteristics) [user experience](https://en.wikipedia.org/wiki/User_experience) (pwa ux), with its currently [QtWebEngine](https://wiki.qt.io/QtWebEngine) browser configured by qml. It is granted only under the [Humanitarian Agpl License](http://namzezam.wikidot.com/humanitarian-agpl-license).
 
-*Before running the Dolphin please extract the [qrc](https://github.com/comcomist/Qdolphin/blob/master/qrc.206.zip?raw=true) file into the build directory [binary 64 linux](https://github.com/comcomist/Qdolphin/blob/master/Qdolphin.00.zip?raw=true)
+* After building and before running the Dolphin please extract the [qrc](https://github.com/comcomist/Qdolphin/blob/master/qrc.206.zip?raw=true) file into the build directory. [binary 64 linux](https://github.com/comcomist/Qdolphin/blob/master/Qdolphin.00.zip?raw=true)
 .* (use this for [android](https://doc.qt.io/qt-5/android-getting-started.html))
 
 ### Welcome to the Qdolphin project! 
