@@ -1,9 +1,9 @@
 # Prevent Data Abuse Smartly with the Qdolphin Blurring
 ![Qdolphin](Qsolphin.2019-02-16.19-39.gif)
 ## The Qdolphin Blurring (qb)
-[Qdolphin](https://github.com/comcomist/Qdolphin/releases) is a [qml](https://en.wikipedia.org/wiki/QML) browser developed in [qt framework](https://www.qt.io/download-qt-installer) and improving privacy and security issues in [progressive web app](https://en.wikipedia.org/wiki/Progressive_web_applications#Characteristics) [user experience](https://en.wikipedia.org/wiki/User_experience) (pwa ux), with its currently [QtWebEngine](https://wiki.qt.io/QtWebEngine) browser configured by qml.
+[Qdolphin](https://github.com/comcomist/Qdolphin/releases) is a [qml](https://en.wikipedia.org/wiki/QML) browser developed in [qt framework](https://www.qt.io/download-qt-installer) for improving privacy and security issues in [progressive web app](https://en.wikipedia.org/wiki/Progressive_web_applications#Characteristics) [user experience](https://en.wikipedia.org/wiki/User_experience) (pwa ux), by putting its [web browser]((https://wiki.qt.io/QtWebEngine) under, and not as, its security chain root.
 
-It is granted only under the [Humanitarian Agpl License](http://namzezam.wikidot.com/humanitarian-agpl-license). After building and before running the Dolphin please extract the [qrc](https://github.com/comcomist/Qdolphin/blob/master/qrc.206.zip?raw=true) file into the build directory. Dist:[binary 64 linux](https://github.com/comcomist/Qdolphin/blob/master/Qdolphin.00.zip?raw=true) (use this for [android](https://doc.qt.io/qt-5/android-getting-started.html)). Join us in/by these [Development meetup places](https://medium.com/@erezelul/the-meetup-place-for-the-qdolphin-business-plans-targeting-startups-and-developers-aiming-solving-5b1e872dc3de) and [t.me](https://t.me/Qdolphin).
+It is granted only under the [Humanitarian Agpl License](http://namzezam.wikidot.com/humanitarian-agpl-license). Join us in/by these [Development meetup places](https://medium.com/@erezelul/the-meetup-place-for-the-qdolphin-business-plans-targeting-startups-and-developers-aiming-solving-5b1e872dc3de) and [t.me](https://t.me/Qdolphin). Before running your building please extract the qrc file into your build directory. and use this for [android](https://doc.qt.io/qt-5/android-getting-started.html). 
 
 ### Welcome to the Qdolphin project! 
 
