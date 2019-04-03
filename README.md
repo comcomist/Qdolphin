@@ -1,6 +1,5 @@
-# The Qdolphin browser 
-![Qdolphin](Qsolphin.2019-02-16.19-39.gif) 
-## Qdolphin (Q DO Love Peace and Happiness IN) is a qml browser for smart people  
+# Qdolphin, a qml browser for smart people, as in Q DO Love Peace and Happiness IN 
+![Qdolphin](Qsolphin.2019-02-16.19-39.gif)  
 [Qdolphin](https://github.com/comcomist/Qdolphin/releases) is a [qml](https://en.wikipedia.org/wiki/QML) browser developed in [qt framework](https://www.qt.io/download-qt-installer) for improving privacy and security issues in [progressive web app](https://en.wikipedia.org/wiki/Progressive_web_applications#Characteristics) [user experience](https://en.wikipedia.org/wiki/User_experience) (pwa ux), by putting its [web browser](https://wiki.qt.io/QtWebEngine) **under, and not as,** its security chain root for preventing Data Abuse, while adding the value the Qdolphin Data Blurring (qdb).
  
 Join us in/by these [Development meetup places](https://medium.com/@erezelul/the-meetup-place-for-the-qdolphin-business-plans-targeting-startups-and-developers-aiming-solving-5b1e872dc3de) and [t.me](https://t.me/Qdolphin). Here is a **[use case](http://buildup1.wikidot.com/)** to [notify](https://chat.prosody.im/) your data [share](https://send.firefox.com/). The development starting from the client and not from the server while providing services of which business is not the data since that is encrypted in the client.
