@@ -11,7 +11,8 @@ Qdolphin is as in Q DO Love Peace and Happiness IN.
 
 
 **The concept** is simple:  While starting from the client and not the server, when you develop for the users you care for, encrypt first in the user's devices and separate the resuosers demands coming from local or the remote.
-**Why is this important?** Without privacy there is no safe place for personality growth requiring natural learning and healing and hence such lack of privacy causes reduction in relationships and growth in hostility between groups defined by any kind of identity politics!   
+
+**Why privacy is important?** Without privacy there is no safe place for personality growth requiring natural learning and healing and hence such lack of privacy causes reduction in relationships and growth in hostility between groups defined by any kind of identity politics!   
 
 **API:** Press Enter to start. When traversing, by up/down+Alt, in your directories tree, press Enter to activate an item or click green for qml directory, blue for web or secert for encryption feature (of 3fish1kbit in ctr mode by contextaul kdf2 key, producing 4k files each having different strong key strensening the weakest ring of any security chain being the human passcode). The Qdolphin is a browser developed in qt framework for pwa ux (progressive web app user experience), with its currently QtWebEngine browser configured by qml. Its qml applications are added as plugins (using .qml files in 'qrc/import' in the build directory and .h files in 'import' in the working directory ), while being separated in memory, performed natively and set by the Qobject hierarchy (with 0.156kb overhead).
 
