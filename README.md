@@ -14,12 +14,12 @@ Join us in/by these [Development meetup places](https://medium.com/@erezelul/the
 * The providers' businesses are not of the user's data, where
    * they contribute in an equal risk (such as in a [comcomized form](https://comcomized.github.io/Postnational-Solutions/)) to the core's development, 
    * the code running on their servers is h/agpl licensed for security and fair development reasons and
-   * are separated to some categories such as 
-    *  A) host data,
-    *  B) proxi+move+notify that data,
-    *  C) manage and configure A+B for specific use for business /organizations and
-    *  D) providing encrypted calender for groups or 
-      *   bootmaker by joining different url's rerecords into on a tab sorted by key and attached to schedule operations.
+   * they are separated to some categories such as 
+     *  A) host data,
+     *  B) proxi+move+notify that data,
+     *  C) manage and configure A+B for specific use for business /organizations and
+     *  D) providing encrypted calender for groups or 
+       *   bootmaker by joining different url's rerecords into on a tab sorted by key and attached to schedule operations.
 
 **Why privacy is important?** Without privacy there is no safe place for personality growth requiring natural learning and healing and hence such lack of privacy causes reduction in relationships and growth in hostility between groups defined by any kind of identity politics!   
 
