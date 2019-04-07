@@ -12,7 +12,7 @@ Join us in/by these [Development meetup places](https://medium.com/@erezelul/the
 * The core is free, hagpl licensed and regularly registering its plugins in its updates and 
     * the plugins provide specific services by connecting the core to some providers' servers. 
 * The providers' businesses are not of the user's data, where
-   * they contribute in an equal risk (such as in a comcomized form) to the core's development, 
+   * they contribute in an equal risk (such as in a [comcomized form](https://comcomized.github.io/Postnational-Solutions/)) to the core's development, 
    * the code running on their servers is h/agpl licensed for security and fair development reasons and
    * are separated to some categories such as 
     *  A) host data,
