@@ -4,9 +4,22 @@
  
 Join us in/by these [Development meetup places](https://medium.com/@erezelul/the-meetup-place-for-the-qdolphin-business-plans-targeting-startups-and-developers-aiming-solving-5b1e872dc3de) and [t.me](https://t.me/Qdolphin). Here is a **[use case](http://buildup1.wikidot.com/)** to [notify](https://chat.prosody.im/) your data [share](https://send.firefox.com/). Before running your build please extract the qrc file into your build directory, also, use this for [android](https://doc.qt.io/qt-5/android-getting-started.html) and see [this google chrome bug](https://thehackernews.com/2019/03/update-google-chrome-hack.html). It is granted the **[Humanitarian Agpl License](http://namzezam.wikidot.com/humanitarian-agpl-license)** by the **[Postnational Solutions Makers](http://comcomist.wikidot.com/)** and is provided as is without warranty of any kind for letting you regain some control over the necessary privacy issues attacking us all. 
 
-**Welcome to the Qdolphin project** - Qdolphin is a qml browser for surfing cleverly in our world by using only one app, while having full separation between the demands for use of your resources coming from the local or remotely (by some algorithms running from the outside while serving the others), where its Web browser is only in a non root branch of the tree of apps it runs and it includes the encryption feature of [3fish1kbit](https://en.wikipedia.org/wiki/Threefish) in [ctr mode](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Counter_(CTR)) by [contextaul](https://github.com/comcomist/lppp---Located-Password-Protected-Protocol) [kdf2 key](https://en.wikipedia.org/wiki/Argon2) (hashing the password together with the path to get the key of a file), while producing 4k files - each is locked by different strong 128 bytes key, for strensening the human passcode, being the weakest ring of any security chain.
+**Welcome to the Qdolphin project**: Qdolphin is a qml browser for surfing cleverly in our world by using only one app, while having full separation between the demands for use of your resources coming from the local or remotely (by some algorithms running from the outside while serving the others), where its Web browser is only in a non root branch of the tree of apps it runs and it includes the encryption feature of [3fish1kbit](https://en.wikipedia.org/wiki/Threefish) in [ctr mode](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Counter_(CTR)) by [contextaul](https://github.com/comcomist/lppp---Located-Password-Protected-Protocol) [kdf2 key](https://en.wikipedia.org/wiki/Argon2) (hashing the password together with the path to get the key of a file), while producing 4k files - each is locked by different strong 128 bytes key, for strensening the human passcode, being the weakest ring of any security chain.
 
-**The concept** is simple:  While starting from the client and not the server, when you develop for the users you care for, encrypt first in the user's devices and separate the resuosers demands coming from local or the remote.
+**The concept** is simple:  While starting from the client and not the server, when you develop for the users you care for, encrypt first in the user's devices and separate the resuosers demands coming from local or the remote. 
+
+**The client oriented development of the Qdolphin:** The Qdolphin development is of its core and its plugins in form of lib/classes. 
+The core is free, hagpl licensed and regularly registering its plugins in its updates and 
+    the plugins provide specific services by connecting the core to some providers' servers. 
+The providers' businesses are not of the user's data, where
+ they contribute in an equal risk (such as in a comcomized form) to the core's development, 
+ the code running on their servers is h/agpl licensed for security and fair development reasons and
+ are separated to some categories such as 
+    A) host data, 
+    B) proxi+move+notify that data,
+    C) manage and configure A+B for specific use for business /organizations and , 
+    D) providing encrypted calender for groups or 
+       bootmaker by joining different url's rerecords into on a tab sorted by key and attached to schedule operations.
 
 **Why privacy is important?** Without privacy there is no safe place for personality growth requiring natural learning and healing and hence such lack of privacy causes reduction in relationships and growth in hostility between groups defined by any kind of identity politics!   
 
